@@ -14,7 +14,7 @@ Edit Your Score [WORKING]
 
 Change Display Color [WORKING]
 
-Toggle Dark Mode [BROKEN]
+Toggle Dark Mode [WORKING]
 
 Restart Game [WORKING]
 
